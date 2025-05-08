@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,HBO Zone
+https://v1.thetvapp.to/hls/HBOZoneEast/index.m3u8
+#EXTINF:-1,HBO 2
+https://v1.thetvapp.to/hls/HBO2East/index.m3u8
+#EXTINF:-1,HBO
+https://v1.thetvapp.to/hls/HBOEast/index.m3u8
+#EXTINF:-1,HBO Signature
+https://v1.thetvapp.to/hls/HBOSignatureEast/index.m3u8
+#EXTINF:-1,HBO Comedy
+https://v1.thetvapp.to/hls/HBOComedyEast/index.m3u8
+#EXTINF:-1,Cinemax
+https://v1.thetvapp.to/hls/CinemaxEast/index.m3u8
+#EXTINF:-1,Moviemax
+https://v1.thetvapp.to/hls/MovieMaxEast/index.m3u8
+#EXTINF:-1,Moremax
+https://v1.thetvapp.to/hls/MoreMaxEast/index.m3u8
