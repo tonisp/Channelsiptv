@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,HBO Zone
-https://v1.thetvapp.to/hls/HBOZoneEast/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies",HBO
+https://v1.thetvapp.to/hls/HBOEast/index.m3u8
 #EXTINF:-1,HBO 2
 https://v1.thetvapp.to/hls/HBO2East/index.m3u8
-#EXTINF:-1,HBO
-https://v1.thetvapp.to/hls/HBOEast/index.m3u8
+#EXTINF:-1,HBO Zone
+https://v1.thetvapp.to/hls/HBOZoneEast/index.m3u8
 #EXTINF:-1,HBO Signature
 https://v1.thetvapp.to/hls/HBOSignatureEast/index.m3u8
 #EXTINF:-1,HBO Comedy
@@ -15,3 +15,11 @@ https://v1.thetvapp.to/hls/CinemaxEast/index.m3u8
 https://v1.thetvapp.to/hls/MovieMaxEast/index.m3u8
 #EXTINF:-1,Moremax
 https://v1.thetvapp.to/hls/MoreMaxEast/index.m3u8
+#EXTINF:-1 tvg-id="showtime" tvg-name="Showtime" group-title="Movies",Showtime
+https://v1.thetvapp.to/hls/ShowtimeEast/index.m3u8
+#EXTINF:-1 group-title="Movies",TNT
+https://v1.thetvapp.to/hls/TNTEast/index.m3u8
+#EXTINF:-1 group-title="Movies",TCM
+https://v1.thetvapp.to/hls/TCMEast/index.m3u8
+#EXTINF:-1 group-title="Series",Comedy Central
+https://v1.thetvapp.to/hls/ComedyCentralEast/index.m3u8
