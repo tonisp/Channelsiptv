@@ -9,6 +9,8 @@ https://v1.thetvapp.to/hls/HBOZoneEast/index.m3u8
 https://v1.thetvapp.to/hls/HBOSignatureEast/index.m3u8
 #EXTINF:-1,HBO Comedy
 https://v1.thetvapp.to/hls/HBOComedyEast/index.m3u8
+#EXTINF:-1,HBO Family
+https://v1.thetvapp.to/hls/HBOFamilyEast/index.m3u8
 #EXTINF:-1,Cinemax
 https://v1.thetvapp.to/hls/CinemaxEast/index.m3u8
 #EXTINF:-1,Moviemax
@@ -23,3 +25,25 @@ https://v1.thetvapp.to/hls/TNTEast/index.m3u8
 https://v1.thetvapp.to/hls/TCMEast/index.m3u8
 #EXTINF:-1 group-title="Series",Comedy Central
 https://v1.thetvapp.to/hls/ComedyCentralEast/index.m3u8
+#EXTINF:-1,Vice TV
+https://v1.thetvapp.to/hls/VICETV/index.m3u8
+#EXTINF:-1,ESPN
+https://v1.thetvapp.to/hls/ESPN/index.m3u8
+#EXTINF:-1,NBA TV
+https://v1.thetvapp.to/hls/NBATV/index.m3u8
+#EXTINF:-1,NFL
+https://v1.thetvapp.to/hls/NFLNetwork/index.m3u8
+#EXTINF:-1,Bloomberg TV
+https://v1.thetvapp.to/hls/BloombergTV/index.m3u8
+#EXTINF:-1,CNBC
+https://v1.thetvapp.to/hls/CNBC/index.m3u8
+#EXTINF:-1,MSNBC
+https://v1.thetvapp.to/hls/MSNBC/index.m3u8
+#EXTINF:-1,WNBC
+https://v1.thetvapp.to/hls/WNBCDT1/index.m3u8
+#EXTINF:-1,Fox News
+https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
+#EXTINF:-1,MeTV Toons
+https://v1.thetvapp.to/hls/metv-toons/index.m3u8
+#EXTINF:-1,Boomerang
+https://v1.thetvapp.to/hls/Boomerang/index.m3u8
