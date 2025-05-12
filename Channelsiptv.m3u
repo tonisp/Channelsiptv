@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies",HBO
 https://v1.thetvapp.to/hls/HBOEast/index.m3u8
 #EXTINF:-1,HBO 2
@@ -19,21 +19,97 @@ https://v1.thetvapp.to/hls/MovieMaxEast/index.m3u8
 https://v1.thetvapp.to/hls/MoreMaxEast/index.m3u8
 #EXTINF:-1 tvg-id="showtime" tvg-name="Showtime" group-title="Movies",Showtime
 https://v1.thetvapp.to/hls/ShowtimeEast/index.m3u8
-#EXTINF:-1 group-title="Movies",TNT
+#EXTINF:-1,TNT
 https://v1.thetvapp.to/hls/TNTEast/index.m3u8
-#EXTINF:-1 group-title="Movies",TCM
+#EXTINF:-1,TCM
 https://v1.thetvapp.to/hls/TCMEast/index.m3u8
+#EXTINF:-1,AMC
+https://v1.thetvapp.to/hls/AMCEast/index.m3u8
+#EXTINF:-1,FX Movie
+https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+#EXTINF:-1,Hallmark
+https://v1.thetvapp.to/hls/HallmarkChannelEast/index.m3u8
+#EXTINF:-1,Hallmark Drama
+https://v1.thetvapp.to/hls/HallmarkDrama/index.m3u8
+#EXTINF:-1,Hallmark Movies&Mysteries
+https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8
+#EXTINF:-1,Starz
+https://v1.thetvapp.to/hls/StarzEast/index.m3u8
+#EXTINF:-1,The Movie Channel
+https://v1.thetvapp.to/hls/TheMovieChannelEast/index.m3u8
+
 #EXTINF:-1 group-title="Series",Comedy Central
 https://v1.thetvapp.to/hls/ComedyCentralEast/index.m3u8
 #EXTINF:-1,Vice TV
 https://v1.thetvapp.to/hls/VICETV/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,CMT
+https://v1.thetvapp.to/hls/CMTEast/index.m3u8
+#EXTINF:-1,FX
+https://v1.thetvapp.to/hls/FXEast/index.m3u8
+#EXTINF:-1,FXX
+https://v1.thetvapp.to/hls/FXXEast/index.m3u8
+#EXTINF:-1,FYI
+https://v1.thetvapp.to/hls/FYIEast/index.m3u8
+#EXTINF:-1,TBS
+https://v1.thetvapp.to/hls/TBSEast/index.m3u8
+#EXTINF:-1,USA Network
+https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8
+
+#EXTINF:-1 group-title="Education",Animal Planet
+https://v1.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
+#EXTINF:-1,Discovery
+https://v1.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8
+#EXTINF:-1,Discovery Family
+https://v1.thetvapp.to/hls/DiscoveryFamily/index.m3u8
+#EXTINF:-1,Discovery Life
+https://v1.thetvapp.to/hls/DiscoveryLife/index.m3u8
+#EXTINF:-1,History
+https://v1.thetvapp.to/hls/HistoryEast/index.m3u8
+#EXTINF:-1,Investigation Discovery
+https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://v1.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
+#EXTINF:-1,National Geographic
+https://v1.thetvapp.to/hls/NationalGeographicEast/index.m3u8
+#EXTINF:-1,Science
+https://v1.thetvapp.to/hls/Science/index.m3u8
+
+#EXTINF:-1 group-title="Sport",ESPN
 https://v1.thetvapp.to/hls/ESPN/index.m3u8
+#EXTINF:-1,ESPN 2
+https://v1.thetvapp.to/hls/ESPN2/index.m3u8
+#EXTINF:-1,ESPN News
+https://v1.thetvapp.to/hls/ESPNews/index.m3u8
+#EXTINF:-1,ESPN U
+https://v1.thetvapp.to/hls/ESPNU/index.m3u8
 #EXTINF:-1,NBA TV
 https://v1.thetvapp.to/hls/NBATV/index.m3u8
 #EXTINF:-1,NFL
 https://v1.thetvapp.to/hls/NFLNetwork/index.m3u8
-#EXTINF:-1,Bloomberg TV
+#EXTINF:-1,NFL Red Zone
+https://v1.thetvapp.to/hls/NFLRedZone/index.m3u8
+#EXTINF:-1,NHL
+https://v1.thetvapp.to/hls/NHLNetwork/index.m3u8
+#EXTINF:-1,ACC
+https://v1.thetvapp.to/hls/ACCNetwork/index.m3u8
+#EXTINF:-1,Big Ten
+https://v1.thetvapp.to/hls/BTN/index.m3u8
+#EXTINF:-1,CBS Sport
+https://v1.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8
+#EXTINF:-1,Fox Sport 1
+https://v1.thetvapp.to/hls/FoxSports1/index.m3u8
+#EXTINF:-1,Fox Sport 2
+https://v1.thetvapp.to/hls/FoxSports2/index.m3u8
+#EXTINF:-1,Midatlantic Sport
+https://v1.thetvapp.to/hls/MLBNetwork/index.m3u8
+#EXTINF:-1,MotorTrend
+https://v1.thetvapp.to/hls/Motortrend/index.m3u8
+#EXTINF:-1,SEC Network
+https://v1.thetvapp.to/hls/SECN/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://v1.thetvapp.to/hls/TennisChannel/index.m3u8
+
+#EXTINF:-1 group-title="News",Bloomberg TV
 https://v1.thetvapp.to/hls/BloombergTV/index.m3u8
 #EXTINF:-1,CNBC
 https://v1.thetvapp.to/hls/CNBC/index.m3u8
@@ -43,7 +119,112 @@ https://v1.thetvapp.to/hls/MSNBC/index.m3u8
 https://v1.thetvapp.to/hls/WNBCDT1/index.m3u8
 #EXTINF:-1,Fox News
 https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
-#EXTINF:-1,MeTV Toons
+#EXTINF:-1,Fox Business
+https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
+#EXTINF:-1,BBC America
+https://v1.thetvapp.to/hls/BBCAmericaEast/index.m3u8
+#EXTINF:-1,BBC World News
+https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
+#EXTINF:-1,CSPAN
+https://v1.thetvapp.to/hls/CSPAN/index.m3u8
+#EXTINF:-1,CSPAN2
+https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
+#EXTINF:-1,Newsmax TV
+https://v1.thetvapp.to/hls/NewsmaxTV/index.m3u8
+#EXTINF:-1,PBS WNET New York
+https://v1.thetvapp.to/hls/WNET/index.m3u8
+#EXTINF:-1,WABC New York ABC
+https://v1.thetvapp.to/hls/WABCDT1/index.m3u8
+#EXTINF:-1,WCBS CBS
+https://v1.thetvapp.to/hls/WCBSDT1/index.m3u8
+#EXTINF:-1,WNYW Fox
+https://v1.thetvapp.to/hls/WNYWDT1/index.m3u8
+
+#EXTINF:-1 group-title="Life",A&E
+https://v1.thetvapp.to/hls/AEEast/index.m3u8
+#EXTINF:-1,Bet
+https://v1.thetvapp.to/hls/BETEast/index.m3u8
+#EXTINF:-1,Bet Her
+https://v1.thetvapp.to/hls/BETHerEast/index.m3u8
+#EXTINF:-1,Bravo
+https://v1.thetvapp.to/hls/BravoEast/index.m3u8
+#EXTINF:-1,Cooking Channel
+https://v1.thetvapp.to/hls/CookingChannel/index.m3u8
+#EXTINF:-1,Crime & Investigation
+https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8
+#EXTINF:-1,Destination America
+https://v1.thetvapp.to/hls/DestinationAmerica/index.m3u8
+#EXTINF:-1,Food Network
+https://v1.thetvapp.to/hls/FoodNetworkEast/index.m3u8
+#EXTINF:-1,Outdoor Channel
+https://v1.thetvapp.to/hls/OutdoorChannel/index.m3u8
+#EXTINF:-1,TLC
+https://v1.thetvapp.to/hls/TLCEast/index.m3u8
+#EXTINF:-1,Travel Channel
+https://v1.thetvapp.to/hls/TravelChannelEast/index.m3u8
+
+#EXTINF:-1 group-title="Kids",MeTV Toons
 https://v1.thetvapp.to/hls/metv-toons/index.m3u8
 #EXTINF:-1,Boomerang
 https://v1.thetvapp.to/hls/Boomerang/index.m3u8
+#EXTINF:-1,Disney
+https://v1.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+#EXTINF:-1,Disney Junior
+https://v1.thetvapp.to/hls/DisneyJuniorEast/index.m3u8
+#EXTINF:-1,Disney XD
+https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8
+#EXTINF:-1,Nick Jr
+https://v1.thetvapp.to/hls/NickJrEast/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://v1.thetvapp.to/hls/NickelodeonEast/index.m3u8
+#EXTINF:-1,Nicktoons
+https://v1.thetvapp.to/hls/NicktoonsEast/index.m3u8
+#EXTINF:-1,TeenNick
+https://v1.thetvapp.to/hls/TeenNickEast/index.m3u8
+#EXTINF:-1,Cartoon Network
+https://v1.thetvapp.to/hls/CartoonNetworkEast/index.m3u8
+#EXTINF:-1,Universal Kids
+https://v1.thetvapp.to/hls/UniversalKidsEast/index.m3u8
+
+#EXTINF:-1 group-title="Misc",Freeform
+https://v1.thetvapp.to/hls/FreeformEast/index.m3u8
+#EXTINF:-1,Fuse
+https://v1.thetvapp.to/hls/FuseEast/index.m3u8
+#EXTINF:-1,HGTV
+https://v1.thetvapp.to/hls/HGTVEast/index.m3u8
+#EXTINF:-1,HLN
+https://v1.thetvapp.to/hls/HLN/index.m3u8
+#EXTINF:-1,IFC
+https://v1.thetvapp.to/hls/IFCEast/index.m3u8
+#EXTINF:-1,ION TV
+https://v1.thetvapp.to/hls/IONTVEast/index.m3u8
+#EXTINF:-1,Lifetime
+https://v1.thetvapp.to/hls/LifetimeEast/index.m3u8
+#EXTINF:-1,Lifetime Movie
+https://v1.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8
+#EXTINF:-1,Logo
+https://v1.thetvapp.to/hls/LogoEast/index.m3u8
+#EXTINF:-1,MTV
+https://v1.thetvapp.to/hls/MTVEast/index.m3u8
+#EXTINF:-1,VH1
+https://v1.thetvapp.to/hls/VH1East/index.m3u8
+#EXTINF:-1,OWN
+https://v1.thetvapp.to/hls/OWNEast/index.m3u8
+#EXTINF:-1,Oxygen True Crime
+https://v1.thetvapp.to/hls/OxygenEast/index.m3u8
+#EXTINF:-1,ReelsChannel
+https://v1.thetvapp.to/hls/reelzchannel/index.m3u8
+#EXTINF:-1,SundanceTV
+https://v1.thetvapp.to/hls/SundanceTVEast/index.m3u8
+#EXTINF:-1,SYFY
+https://v1.thetvapp.to/hls/SyfyEast/index.m3u8
+#EXTINF:-1,Telemundo
+https://v1.thetvapp.to/hls/TelemundoEast/index.m3u8
+#EXTINF:-1,truTV
+https://v1.thetvapp.to/hls/truTVEast/index.m3u8
+#EXTINF:-1,TV One
+https://v1.thetvapp.to/hls/TVOne/index.m3u8
+#EXTINF:-1,Univision
+https://v1.thetvapp.to/hls/UnivisionEast/index.m3u8
+#EXTINF:-1,We TV
+https://v1.thetvapp.to/hls/WeTVEast/index.m3u8
